@@ -5,6 +5,6 @@ namespace CQRS_MediatR.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
-public class EmployeesController : ControllerBase
+public class ProductsController : ControllerBase
 {
 }
